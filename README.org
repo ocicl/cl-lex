@@ -1,0 +1,10 @@
+* cl-lex
+
+Common Lisp macros for generating lexical analyzers automatically
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/djr7C4/cl-lex.git   |
+| commit  | f2dbbe2  |
+| systems | cl-lex |
+|---------+-------------------------------------------|
+
