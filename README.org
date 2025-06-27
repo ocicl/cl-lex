@@ -2,9 +2,8 @@
 
 Common Lisp macros for generating lexical analyzers automatically
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/djr7C4/cl-lex.git   |
-| commit  | f2dbbe2  |
-| systems | cl-lex |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------|
+| source  | git:https://github.com/djr7C4/cl-lex.git |
+| commit  | 09e923f                                  |
+| systems | cl-lex                                   |
+|---------+------------------------------------------|
